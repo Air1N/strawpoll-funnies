@@ -1,0 +1,2 @@
+# strawpoll-funnies
+Funny
